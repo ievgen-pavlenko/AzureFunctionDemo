@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "SecondStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+        "FirstQueueName" : "first-queue",
+        "FirstContainerName" : "first-container",
+        "SecondQueueName" : "second-queue",
+        "SecondContainerName" : "second-container"
+    }
+}
